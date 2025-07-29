@@ -61,12 +61,6 @@ plt.show()
 
 ---
 
-## 🚫 Data Note
-
-The dataset (`droupout.csv`) includes sensitive information and is not shared publicly. To run the notebook, users must provide their own data with similar structure.
-
----
-
 ## 👩‍💻 Author
 
 *Caitlyn Cai* — Passionate about applying machine learning to education and public interest domains.
